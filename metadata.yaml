@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34935'
     url: http://www.gutenberg.org/2009/agents/34935
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30984#Gli-avvenimenti-di-Sicilia-e-le-loro-cause
 gutenberg_bookshelf: IT Scienze politiche
 gutenberg_issued: '2010-01-16'
 gutenberg_type: Text
